@@ -1,4 +1,4 @@
-pip freeze
+
 
 dj-database-url==0.4.2
 Django==1.11.6
